@@ -1,0 +1,5 @@
+1. Simple solution # 1
+Read line after line and slice the given word if it has more than 10 symbols
+
+2. Simple solution # 2
+Read line after line. the string in js is array - so we can exploit it
