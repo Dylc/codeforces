@@ -1,0 +1,6 @@
+// Simple solution # 1
+
+Iterating and accumulation the value if we have 1 at every place
+
+// Regex solution
+Remove globally all "0" and count number of spaces. If it'solution4 or more - so we remove less than two zeros - so we have at least 2 "1"
